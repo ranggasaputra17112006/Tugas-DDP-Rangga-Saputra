@@ -7,7 +7,11 @@ int main(){
 	cout<<"=============================================="<<endl;
 	cout<<"|TUGAS UJI KOMPETENSI DASAR DASAR PEMROGRAMAN|"<<endl;
 	cout<<"=============================================="<<endl;
-	cout<<"Masukan Detik= ";
+	cout<<"Nama : Rangga Saputra"<<endl;
+	cout<<"NIM  : 2500018028"<<endl;
+	cout<<"Kelas: A"<<endl;
+	
+	cout<<"\nMasukan Detik= ";
 	cin>>detik;
 	cout<<"======================"<<endl;
 	
@@ -27,5 +31,6 @@ int main(){
 	
     return 0;
 }
+
 
 
