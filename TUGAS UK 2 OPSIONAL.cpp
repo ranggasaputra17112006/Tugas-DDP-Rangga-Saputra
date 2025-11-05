@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int detik;
+	long long detik;
 
 	cout<<"=============================================="<<endl;
 	cout<<"|TUGAS UJI KOMPETENSI DASAR DASAR PEMROGRAMAN|"<<endl;
@@ -21,8 +21,11 @@ int main(){
 	cout<<endl;
 	cout<<"====================="<<endl;
     cout<<"|   Hasil Konversi  |"<<endl;
+	cout<<"====================="<<endl;
     cout<<detik<<" "<<"Detik ="<<" "<<hari<<" "<<"Hari, "<<jam<<" "<<"Jam, "<<menit<<" "<<"Menit, "<<detik_akhir<<" "<<"detik. "<<endl;
-    
+    cout<<"================================================"<<endl;
+	
     return 0;
 }
+
 
